@@ -4,8 +4,8 @@ This is a React application that uses React Router for client-side routing. The 
 
 Project Structure
 
-index.js: The entry point of the application, responsible for rendering the app to the DOM.
-components/App.js: The main application component.
+main.jsx: The entry point of the application, responsible for rendering the app to the DOM.
+components/App.jsx: The main application component.
 index.css: Global CSS styles for the application.
 Dependencies
 
