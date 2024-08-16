@@ -1,13 +1,11 @@
 {
-  "homepage": "http://njoroge-paul.github.io/Scentify-web-app",
-  "name":"Scentify-web-app",
+  "homepage": "https://njoroge-paul.github.io/Scentify/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
