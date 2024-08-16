@@ -20,7 +20,7 @@ Start the development server: npm start or yarn start
 Open the app in your browser: http://localhost:3000
 Build and Deployment
 
-To build the application for production, run npm run build or yarn build. This will create a production-ready build of the app in the build folder.
+To build the application for production, run npm run build . This will create a production-ready build of the app in the build folder.
 
 To deploy the app, you can upload the contents of the build folder to a hosting platform or server of your choice.
 
